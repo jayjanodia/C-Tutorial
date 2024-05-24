@@ -1,6 +1,6 @@
 ## Keyboard shortcuts
 
-- Do debug: `Ctrl + Shift + B`
+- Do debug: `Ctrl + Shift + B`. B stands for build
 - Run code: `Ctrl + F5`
 
 ## Code shortcuts. Use tab to complete
