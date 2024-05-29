@@ -6,3 +6,5 @@
 ## Code shortcuts. Use tab to complete
 
 - `cw`: Console.WriteLine();
+- `prop`: Creates getter and setter method
+- `cotr`: Creates constructor
